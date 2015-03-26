@@ -1,0 +1,2006 @@
+{
+    "assets": [
+        {
+            "asset": "../../../../../../Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist", 
+            "target": "ResourceRules.plist"
+        }, 
+        {
+            "asset": "Source/Resources/Icons/Settings.png", 
+            "target": "Settings.png"
+        }, 
+        {
+            "asset": "Source/Resources/Default@2x.png", 
+            "target": "Default@2x.png"
+        }, 
+        {
+            "asset": "Source/Resources/Audio/fear.mp3", 
+            "target": "fear.mp3"
+        }, 
+        {
+            "asset": "Source/Resources/Icons/iPad@2x.png", 
+            "target": "iPad@2x.png"
+        }, 
+        {
+            "asset": "Source/Resources/Icons/iPad.png", 
+            "target": "iPad.png"
+        }, 
+        {
+            "asset": "Source/Resources/Icons/iPad-old@2x.png", 
+            "target": "iPad-old@2x.png"
+        }, 
+        {
+            "asset": "Source/Resources/Icons/iPhone-old@2x.png", 
+            "target": "iPhone-old@2x.png"
+        }, 
+        {
+            "asset": "Source/Resources/Levels/Levels.plist", 
+            "target": "Levels.plist"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/AngerEnemy.ccbi", 
+            "target": "Published-iOS/AngerEnemy.ccbi"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/BigMask.ccbi", 
+            "target": "Published-iOS/BigMask.ccbi"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/CalmParticle.ccbi", 
+            "target": "Published-iOS/CalmParticle.ccbi"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/configCocos2d.plist", 
+            "target": "Published-iOS/configCocos2d.plist"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/EnemyDies.ccbi", 
+            "target": "Published-iOS/EnemyDies.ccbi"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/fileLookup.plist", 
+            "target": "Published-iOS/fileLookup.plist"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Gameplay.ccbi", 
+            "target": "Published-iOS/Gameplay.ccbi"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/GoalPosition.ccbi", 
+            "target": "Published-iOS/GoalPosition.ccbi"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/GroundBlock.ccbi", 
+            "target": "Published-iOS/GroundBlock.ccbi"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/HappyEnemy.ccbi", 
+            "target": "Published-iOS/HappyEnemy.ccbi"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/HappyEnemyDynamic.ccbi", 
+            "target": "Published-iOS/HappyEnemyDynamic.ccbi"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Hero.ccbi", 
+            "target": "Published-iOS/Hero.ccbi"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/HeroBatchNode.ccbi", 
+            "target": "Published-iOS/HeroBatchNode.ccbi"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Level1.ccbi", 
+            "target": "Published-iOS/Level1.ccbi"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Level10.ccbi", 
+            "target": "Published-iOS/Level10.ccbi"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Level3.ccbi", 
+            "target": "Published-iOS/Level3.ccbi"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Level4.ccbi", 
+            "target": "Published-iOS/Level4.ccbi"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Level5.ccbi", 
+            "target": "Published-iOS/Level5.ccbi"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Level_2.ccbi", 
+            "target": "Published-iOS/Level_2.ccbi"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Level_tutorial.ccbi", 
+            "target": "Published-iOS/Level_tutorial.ccbi"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/LevelDetails.ccbi", 
+            "target": "Published-iOS/LevelDetails.ccbi"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/LevelTile.ccbi", 
+            "target": "Published-iOS/LevelTile.ccbi"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/MainScene.ccbi", 
+            "target": "Published-iOS/MainScene.ccbi"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Mask.ccbi", 
+            "target": "Published-iOS/Mask.ccbi"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/ModeSwitch.ccbi", 
+            "target": "Published-iOS/ModeSwitch.ccbi"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/SadEnemy.ccbi", 
+            "target": "Published-iOS/SadEnemy.ccbi"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/ScaredEnemy.ccbi", 
+            "target": "Published-iOS/ScaredEnemy.ccbi"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/spriteFrameFileList.plist", 
+            "target": "Published-iOS/spriteFrameFileList.plist"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/StartPosition.ccbi", 
+            "target": "Published-iOS/StartPosition.ccbi"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Startscreen.ccbi", 
+            "target": "Published-iOS/Startscreen.ccbi"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Strings.ccbLang", 
+            "target": "Published-iOS/Strings.ccbLang"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/TutorialGameplay.ccbi", 
+            "target": "Published-iOS/TutorialGameplay.ccbi"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/TutorialInstructionPopup.ccbi", 
+            "target": "Published-iOS/TutorialInstructionPopup.ccbi"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/blocks/DefaultCube.ccbi", 
+            "target": "Published-iOS/blocks/DefaultCube.ccbi"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/blocks/DefaultGround.ccbi", 
+            "target": "Published-iOS/blocks/DefaultGround.ccbi"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/blocks/GroundBlock64.ccbi", 
+            "target": "Published-iOS/blocks/GroundBlock64.ccbi"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/blocks/GroundBlockEight.ccbi", 
+            "target": "Published-iOS/blocks/GroundBlockEight.ccbi"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/blocks/OnlyAngerCube.ccbi", 
+            "target": "Published-iOS/blocks/OnlyAngerCube.ccbi"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/blocks/OnlyAngry64.ccbi", 
+            "target": "Published-iOS/blocks/OnlyAngry64.ccbi"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/blocks/OnlyAngryGroundBlock.ccbi", 
+            "target": "Published-iOS/blocks/OnlyAngryGroundBlock.ccbi"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/blocks/OnlyCalm64.ccbi", 
+            "target": "Published-iOS/blocks/OnlyCalm64.ccbi"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/blocks/OnlyCalmBlock.ccbi", 
+            "target": "Published-iOS/blocks/OnlyCalmBlock.ccbi"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/blocks/OnlyCalmCube.ccbi", 
+            "target": "Published-iOS/blocks/OnlyCalmCube.ccbi"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/blocks/OnlyFear64.ccbi", 
+            "target": "Published-iOS/blocks/OnlyFear64.ccbi"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/blocks/OnlyFearCube.ccbi", 
+            "target": "Published-iOS/blocks/OnlyFearCube.ccbi"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/blocks/OnlyFearGroundBlock.ccbi", 
+            "target": "Published-iOS/blocks/OnlyFearGroundBlock.ccbi"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/blocks/OnlyHappy64.ccbi", 
+            "target": "Published-iOS/blocks/OnlyHappy64.ccbi"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/blocks/OnlyHappyCube.ccbi", 
+            "target": "Published-iOS/blocks/OnlyHappyCube.ccbi"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/blocks/OnlyHappyGroundBlock.ccbi", 
+            "target": "Published-iOS/blocks/OnlyHappyGroundBlock.ccbi"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/blocks/SlopeBlock.ccbi", 
+            "target": "Published-iOS/blocks/SlopeBlock.ccbi"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/ccbResources/resources-phone/ccbButtonHighlighted.png", 
+            "target": "Published-iOS/ccbResources/resources-phone/ccbButtonHighlighted.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/ccbResources/resources-phone/ccbButtonNormal.png", 
+            "target": "Published-iOS/ccbResources/resources-phone/ccbButtonNormal.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/ccbResources/resources-phone/ccbParticleFire.png", 
+            "target": "Published-iOS/ccbResources/resources-phone/ccbParticleFire.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/ccbResources/resources-phone/ccbParticleMagic.png", 
+            "target": "Published-iOS/ccbResources/resources-phone/ccbParticleMagic.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/ccbResources/resources-phone/ccbParticleSmoke.png", 
+            "target": "Published-iOS/ccbResources/resources-phone/ccbParticleSmoke.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/ccbResources/resources-phone/ccbParticleSnow.png", 
+            "target": "Published-iOS/ccbResources/resources-phone/ccbParticleSnow.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/ccbResources/resources-phone/ccbParticleStars.png", 
+            "target": "Published-iOS/ccbResources/resources-phone/ccbParticleStars.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/ccbResources/resources-phone/ccbSliderBgHighlighted.png", 
+            "target": "Published-iOS/ccbResources/resources-phone/ccbSliderBgHighlighted.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/ccbResources/resources-phone/ccbSliderBgNormal.png", 
+            "target": "Published-iOS/ccbResources/resources-phone/ccbSliderBgNormal.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/ccbResources/resources-phone/ccbSliderHandle.png", 
+            "target": "Published-iOS/ccbResources/resources-phone/ccbSliderHandle.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/ccbResources/resources-phone/ccbTextField.png", 
+            "target": "Published-iOS/ccbResources/resources-phone/ccbTextField.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/ccbResources/resources-phonehd/ccbButtonHighlighted.png", 
+            "target": "Published-iOS/ccbResources/resources-phonehd/ccbButtonHighlighted.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/ccbResources/resources-phonehd/ccbButtonNormal.png", 
+            "target": "Published-iOS/ccbResources/resources-phonehd/ccbButtonNormal.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/ccbResources/resources-phonehd/ccbParticleFire.png", 
+            "target": "Published-iOS/ccbResources/resources-phonehd/ccbParticleFire.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/ccbResources/resources-phonehd/ccbParticleMagic.png", 
+            "target": "Published-iOS/ccbResources/resources-phonehd/ccbParticleMagic.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/ccbResources/resources-phonehd/ccbParticleSmoke.png", 
+            "target": "Published-iOS/ccbResources/resources-phonehd/ccbParticleSmoke.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/ccbResources/resources-phonehd/ccbParticleSnow.png", 
+            "target": "Published-iOS/ccbResources/resources-phonehd/ccbParticleSnow.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/ccbResources/resources-phonehd/ccbParticleStars.png", 
+            "target": "Published-iOS/ccbResources/resources-phonehd/ccbParticleStars.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/ccbResources/resources-phonehd/ccbSliderBgHighlighted.png", 
+            "target": "Published-iOS/ccbResources/resources-phonehd/ccbSliderBgHighlighted.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/ccbResources/resources-phonehd/ccbSliderBgNormal.png", 
+            "target": "Published-iOS/ccbResources/resources-phonehd/ccbSliderBgNormal.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/ccbResources/resources-phonehd/ccbSliderHandle.png", 
+            "target": "Published-iOS/ccbResources/resources-phonehd/ccbSliderHandle.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/ccbResources/resources-phonehd/ccbTextField.png", 
+            "target": "Published-iOS/ccbResources/resources-phonehd/ccbTextField.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/ccbResources/resources-tablet/ccbButtonHighlighted.png", 
+            "target": "Published-iOS/ccbResources/resources-tablet/ccbButtonHighlighted.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/ccbResources/resources-tablet/ccbButtonNormal.png", 
+            "target": "Published-iOS/ccbResources/resources-tablet/ccbButtonNormal.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/ccbResources/resources-tablet/ccbParticleFire.png", 
+            "target": "Published-iOS/ccbResources/resources-tablet/ccbParticleFire.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/ccbResources/resources-tablet/ccbParticleMagic.png", 
+            "target": "Published-iOS/ccbResources/resources-tablet/ccbParticleMagic.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/ccbResources/resources-tablet/ccbParticleSmoke.png", 
+            "target": "Published-iOS/ccbResources/resources-tablet/ccbParticleSmoke.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/ccbResources/resources-tablet/ccbParticleSnow.png", 
+            "target": "Published-iOS/ccbResources/resources-tablet/ccbParticleSnow.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/ccbResources/resources-tablet/ccbParticleStars.png", 
+            "target": "Published-iOS/ccbResources/resources-tablet/ccbParticleStars.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/ccbResources/resources-tablet/ccbSliderBgHighlighted.png", 
+            "target": "Published-iOS/ccbResources/resources-tablet/ccbSliderBgHighlighted.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/ccbResources/resources-tablet/ccbSliderBgNormal.png", 
+            "target": "Published-iOS/ccbResources/resources-tablet/ccbSliderBgNormal.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/ccbResources/resources-tablet/ccbSliderHandle.png", 
+            "target": "Published-iOS/ccbResources/resources-tablet/ccbSliderHandle.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/ccbResources/resources-tablet/ccbTextField.png", 
+            "target": "Published-iOS/ccbResources/resources-tablet/ccbTextField.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/ccbResources/resources-tablethd/ccbButtonHighlighted.png", 
+            "target": "Published-iOS/ccbResources/resources-tablethd/ccbButtonHighlighted.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/ccbResources/resources-tablethd/ccbButtonNormal.png", 
+            "target": "Published-iOS/ccbResources/resources-tablethd/ccbButtonNormal.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/ccbResources/resources-tablethd/ccbParticleFire.png", 
+            "target": "Published-iOS/ccbResources/resources-tablethd/ccbParticleFire.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/ccbResources/resources-tablethd/ccbParticleMagic.png", 
+            "target": "Published-iOS/ccbResources/resources-tablethd/ccbParticleMagic.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/ccbResources/resources-tablethd/ccbParticleSmoke.png", 
+            "target": "Published-iOS/ccbResources/resources-tablethd/ccbParticleSmoke.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/ccbResources/resources-tablethd/ccbParticleSnow.png", 
+            "target": "Published-iOS/ccbResources/resources-tablethd/ccbParticleSnow.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/ccbResources/resources-tablethd/ccbParticleStars.png", 
+            "target": "Published-iOS/ccbResources/resources-tablethd/ccbParticleStars.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/ccbResources/resources-tablethd/ccbSliderBgHighlighted.png", 
+            "target": "Published-iOS/ccbResources/resources-tablethd/ccbSliderBgHighlighted.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/ccbResources/resources-tablethd/ccbSliderBgNormal.png", 
+            "target": "Published-iOS/ccbResources/resources-tablethd/ccbSliderBgNormal.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/ccbResources/resources-tablethd/ccbSliderHandle.png", 
+            "target": "Published-iOS/ccbResources/resources-tablethd/ccbSliderHandle.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/ccbResources/resources-tablethd/ccbTextField.png", 
+            "target": "Published-iOS/ccbResources/resources-tablethd/ccbTextField.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Fragments/Tutorial_blank.ccbi", 
+            "target": "Published-iOS/Fragments/Tutorial_blank.ccbi"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Instructions/DisplayInstruction.ccbi", 
+            "target": "Published-iOS/Instructions/DisplayInstruction.ccbi"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Instructions/Instruction.ccbi", 
+            "target": "Published-iOS/Instructions/Instruction.ccbi"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Instructions/Instruction_Jump.ccbi", 
+            "target": "Published-iOS/Instructions/Instruction_Jump.ccbi"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Instructions/Instruction_Switch.ccbi", 
+            "target": "Published-iOS/Instructions/Instruction_Switch.ccbi"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Levels/Level_0.ccbi", 
+            "target": "Published-iOS/Levels/Level_0.ccbi"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Levels/Level_1.ccbi", 
+            "target": "Published-iOS/Levels/Level_1.ccbi"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Levels/Level_2.ccbi", 
+            "target": "Published-iOS/Levels/Level_2.ccbi"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Levels/Level_3.ccbi", 
+            "target": "Published-iOS/Levels/Level_3.ccbi"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Levels/Level_4.ccbi", 
+            "target": "Published-iOS/Levels/Level_4.ccbi"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Levels/Level_5.ccbi", 
+            "target": "Published-iOS/Levels/Level_5.ccbi"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Particles/DangerBlock.ccbi", 
+            "target": "Published-iOS/Particles/DangerBlock.ccbi"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/resources-phone/arrowL.png", 
+            "target": "Published-iOS/resources-phone/arrowL.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/resources-phone/arrowR.png", 
+            "target": "Published-iOS/resources-phone/arrowR.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/resources-phone/art.plist", 
+            "target": "Published-iOS/resources-phone/art.plist"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/resources-phone/art.png", 
+            "target": "Published-iOS/resources-phone/art.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/resources-phone/menuscreen.png", 
+            "target": "Published-iOS/resources-phone/menuscreen.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/resources-phone/START_MENU_DONE.png", 
+            "target": "Published-iOS/resources-phone/START_MENU_DONE.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/resources-phonehd/arrowL.png", 
+            "target": "Published-iOS/resources-phonehd/arrowL.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/resources-phonehd/arrowR.png", 
+            "target": "Published-iOS/resources-phonehd/arrowR.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/resources-phonehd/art.plist", 
+            "target": "Published-iOS/resources-phonehd/art.plist"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/resources-phonehd/art.png", 
+            "target": "Published-iOS/resources-phonehd/art.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/resources-phonehd/menuscreen.png", 
+            "target": "Published-iOS/resources-phonehd/menuscreen.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/resources-phonehd/START_MENU_DONE.png", 
+            "target": "Published-iOS/resources-phonehd/START_MENU_DONE.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/resources-tablet/arrowL.png", 
+            "target": "Published-iOS/resources-tablet/arrowL.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/resources-tablet/arrowR.png", 
+            "target": "Published-iOS/resources-tablet/arrowR.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/resources-tablet/art.plist", 
+            "target": "Published-iOS/resources-tablet/art.plist"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/resources-tablet/art.png", 
+            "target": "Published-iOS/resources-tablet/art.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/resources-tablet/menuscreen.png", 
+            "target": "Published-iOS/resources-tablet/menuscreen.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/resources-tablet/START_MENU_DONE.png", 
+            "target": "Published-iOS/resources-tablet/START_MENU_DONE.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/resources-tablethd/arrowL.png", 
+            "target": "Published-iOS/resources-tablethd/arrowL.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/resources-tablethd/arrowR.png", 
+            "target": "Published-iOS/resources-tablethd/arrowR.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/resources-tablethd/art.plist", 
+            "target": "Published-iOS/resources-tablethd/art.plist"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/resources-tablethd/art.png", 
+            "target": "Published-iOS/resources-tablethd/art.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/resources-tablethd/menuscreen.png", 
+            "target": "Published-iOS/resources-tablethd/menuscreen.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/resources-tablethd/START_MENU_DONE.png", 
+            "target": "Published-iOS/resources-tablethd/START_MENU_DONE.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Tutorials/Tutorial1/Tutorial1_0.ccbi", 
+            "target": "Published-iOS/Tutorials/Tutorial1/Tutorial1_0.ccbi"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Tutorials/Tutorial1/Tutorial1_1.ccbi", 
+            "target": "Published-iOS/Tutorials/Tutorial1/Tutorial1_1.ccbi"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Tutorials/Tutorial1/Tutorial1_2.ccbi", 
+            "target": "Published-iOS/Tutorials/Tutorial1/Tutorial1_2.ccbi"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Tutorials/Tutorial1/Tutorial1_3.ccbi", 
+            "target": "Published-iOS/Tutorials/Tutorial1/Tutorial1_3.ccbi"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Tutorials/Tutorial1/Tutorial1_4.ccbi", 
+            "target": "Published-iOS/Tutorials/Tutorial1/Tutorial1_4.ccbi"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Tutorials/Tutorial1/Tutorial1_5.ccbi", 
+            "target": "Published-iOS/Tutorials/Tutorial1/Tutorial1_5.ccbi"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/UI/GameEndLayer.ccbi", 
+            "target": "Published-iOS/UI/GameEndLayer.ccbi"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/UI/GameWinLayer.ccbi", 
+            "target": "Published-iOS/UI/GameWinLayer.ccbi"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/UI/LoadingScreen.ccbi", 
+            "target": "Published-iOS/UI/LoadingScreen.ccbi"
+        }, 
+        {
+            "asset": "Frameworks/Kamcord.embeddedframework/Resources/KC_GTMOAuth2ViewTouch.nib", 
+            "target": "KC_GTMOAuth2ViewTouch.nib"
+        }, 
+        {
+            "asset": "Source/Resources/Icons/Settings@2x.png", 
+            "target": "Settings@2x.png"
+        }, 
+        {
+            "asset": "Source/Resources/Audio/calm.mp3", 
+            "target": "calm.mp3"
+        }, 
+        {
+            "asset": "Source/Resources/Base.lproj/Localizable.strings", 
+            "target": "Base.lproj/Localizable.strings"
+        }, 
+        {
+            "asset": "Source/Resources/en.lproj/Localizable.strings", 
+            "target": "en.lproj/Localizable.strings"
+        }, 
+        {
+            "asset": "Source/Resources/Audio/angry.mp3", 
+            "target": "angry.mp3"
+        }, 
+        {
+            "asset": "Source/Resources/Default-Landscape~ipad.png", 
+            "target": "Default-Landscape~ipad.png"
+        }, 
+        {
+            "asset": "Source/Resources/Icons/iPhone-old.png", 
+            "target": "iPhone-old.png"
+        }, 
+        {
+            "asset": "Source/Resources/Icons/iPhone.png", 
+            "target": "iPhone.png"
+        }, 
+        {
+            "asset": "Source/Resources/Audio/happy.mp3", 
+            "target": "happy.mp3"
+        }, 
+        {
+            "asset": "Source/Resources/Default-568h@2x.png", 
+            "target": "Default-568h@2x.png"
+        }, 
+        {
+            "asset": "Source/Resources/Additional-Resources/.DS_Store", 
+            "target": "Additional-Resources/.DS_Store"
+        }, 
+        {
+            "asset": "Source/Resources/Additional-Resources/resources-phone/arrowL.png", 
+            "target": "Additional-Resources/resources-phone/arrowL.png"
+        }, 
+        {
+            "asset": "Source/Resources/Additional-Resources/resources-phone/arrowR.png", 
+            "target": "Additional-Resources/resources-phone/arrowR.png"
+        }, 
+        {
+            "asset": "Source/Resources/Additional-Resources/resources-phone/art.plist", 
+            "target": "Additional-Resources/resources-phone/art.plist"
+        }, 
+        {
+            "asset": "Source/Resources/Additional-Resources/resources-phone/art.png", 
+            "target": "Additional-Resources/resources-phone/art.png"
+        }, 
+        {
+            "asset": "Source/Resources/Additional-Resources/resources-phone/happy_default.plist", 
+            "target": "Additional-Resources/resources-phone/happy_default.plist"
+        }, 
+        {
+            "asset": "Source/Resources/Additional-Resources/resources-phone/happy_default.png", 
+            "target": "Additional-Resources/resources-phone/happy_default.png"
+        }, 
+        {
+            "asset": "Source/Resources/Additional-Resources/resources-phone/happymask_default.plist", 
+            "target": "Additional-Resources/resources-phone/happymask_default.plist"
+        }, 
+        {
+            "asset": "Source/Resources/Additional-Resources/resources-phone/happymask_default.png", 
+            "target": "Additional-Resources/resources-phone/happymask_default.png"
+        }, 
+        {
+            "asset": "Source/Resources/Additional-Resources/resources-phone/hero_default.plist", 
+            "target": "Additional-Resources/resources-phone/hero_default.plist"
+        }, 
+        {
+            "asset": "Source/Resources/Additional-Resources/resources-phone/hero_default.png", 
+            "target": "Additional-Resources/resources-phone/hero_default.png"
+        }, 
+        {
+            "asset": "Source/Resources/Additional-Resources/resources-phone/menuscreen.png", 
+            "target": "Additional-Resources/resources-phone/menuscreen.png"
+        }, 
+        {
+            "asset": "Source/Resources/Additional-Resources/resources-phone/START_MENU_DONE.png", 
+            "target": "Additional-Resources/resources-phone/START_MENU_DONE.png"
+        }, 
+        {
+            "asset": "Source/Resources/Additional-Resources/resources-phonehd/angrymask_default.plist", 
+            "target": "Additional-Resources/resources-phonehd/angrymask_default.plist"
+        }, 
+        {
+            "asset": "Source/Resources/Additional-Resources/resources-phonehd/angrymask_default.png", 
+            "target": "Additional-Resources/resources-phonehd/angrymask_default.png"
+        }, 
+        {
+            "asset": "Source/Resources/Additional-Resources/resources-phonehd/arrowL.png", 
+            "target": "Additional-Resources/resources-phonehd/arrowL.png"
+        }, 
+        {
+            "asset": "Source/Resources/Additional-Resources/resources-phonehd/arrowR.png", 
+            "target": "Additional-Resources/resources-phonehd/arrowR.png"
+        }, 
+        {
+            "asset": "Source/Resources/Additional-Resources/resources-phonehd/art.plist", 
+            "target": "Additional-Resources/resources-phonehd/art.plist"
+        }, 
+        {
+            "asset": "Source/Resources/Additional-Resources/resources-phonehd/art.png", 
+            "target": "Additional-Resources/resources-phonehd/art.png"
+        }, 
+        {
+            "asset": "Source/Resources/Additional-Resources/resources-phonehd/happymask_default.plist", 
+            "target": "Additional-Resources/resources-phonehd/happymask_default.plist"
+        }, 
+        {
+            "asset": "Source/Resources/Additional-Resources/resources-phonehd/happymask_default.png", 
+            "target": "Additional-Resources/resources-phonehd/happymask_default.png"
+        }, 
+        {
+            "asset": "Source/Resources/Additional-Resources/resources-phonehd/hero_default.plist", 
+            "target": "Additional-Resources/resources-phonehd/hero_default.plist"
+        }, 
+        {
+            "asset": "Source/Resources/Additional-Resources/resources-phonehd/hero_default.png", 
+            "target": "Additional-Resources/resources-phonehd/hero_default.png"
+        }, 
+        {
+            "asset": "Source/Resources/Additional-Resources/resources-phonehd/menuscreen.png", 
+            "target": "Additional-Resources/resources-phonehd/menuscreen.png"
+        }, 
+        {
+            "asset": "Source/Resources/Additional-Resources/resources-phonehd/sadmask_default.plist", 
+            "target": "Additional-Resources/resources-phonehd/sadmask_default.plist"
+        }, 
+        {
+            "asset": "Source/Resources/Additional-Resources/resources-phonehd/sadmask_default.png", 
+            "target": "Additional-Resources/resources-phonehd/sadmask_default.png"
+        }, 
+        {
+            "asset": "Source/Resources/Additional-Resources/resources-phonehd/scaredmask_default.plist", 
+            "target": "Additional-Resources/resources-phonehd/scaredmask_default.plist"
+        }, 
+        {
+            "asset": "Source/Resources/Additional-Resources/resources-phonehd/scaredmask_default.png", 
+            "target": "Additional-Resources/resources-phonehd/scaredmask_default.png"
+        }, 
+        {
+            "asset": "Source/Resources/Additional-Resources/resources-phonehd/START_MENU_DONE.png", 
+            "target": "Additional-Resources/resources-phonehd/START_MENU_DONE.png"
+        }, 
+        {
+            "asset": "Source/Resources/Additional-Resources/resources-tablet/arrowL.png", 
+            "target": "Additional-Resources/resources-tablet/arrowL.png"
+        }, 
+        {
+            "asset": "Source/Resources/Additional-Resources/resources-tablet/arrowR.png", 
+            "target": "Additional-Resources/resources-tablet/arrowR.png"
+        }, 
+        {
+            "asset": "Source/Resources/Additional-Resources/resources-tablet/art.plist", 
+            "target": "Additional-Resources/resources-tablet/art.plist"
+        }, 
+        {
+            "asset": "Source/Resources/Additional-Resources/resources-tablet/art.png", 
+            "target": "Additional-Resources/resources-tablet/art.png"
+        }, 
+        {
+            "asset": "Source/Resources/Additional-Resources/resources-tablet/menuscreen.png", 
+            "target": "Additional-Resources/resources-tablet/menuscreen.png"
+        }, 
+        {
+            "asset": "Source/Resources/Additional-Resources/resources-tablet/START_MENU_DONE.png", 
+            "target": "Additional-Resources/resources-tablet/START_MENU_DONE.png"
+        }, 
+        {
+            "asset": "Source/Resources/Additional-Resources/resources-tablethd/arrowL.png", 
+            "target": "Additional-Resources/resources-tablethd/arrowL.png"
+        }, 
+        {
+            "asset": "Source/Resources/Additional-Resources/resources-tablethd/arrowR.png", 
+            "target": "Additional-Resources/resources-tablethd/arrowR.png"
+        }, 
+        {
+            "asset": "Source/Resources/Additional-Resources/resources-tablethd/art.plist", 
+            "target": "Additional-Resources/resources-tablethd/art.plist"
+        }, 
+        {
+            "asset": "Source/Resources/Additional-Resources/resources-tablethd/art.png", 
+            "target": "Additional-Resources/resources-tablethd/art.png"
+        }, 
+        {
+            "asset": "Source/Resources/Additional-Resources/resources-tablethd/menuscreen.png", 
+            "target": "Additional-Resources/resources-tablethd/menuscreen.png"
+        }, 
+        {
+            "asset": "Source/Resources/Additional-Resources/resources-tablethd/START_MENU_DONE.png", 
+            "target": "Additional-Resources/resources-tablethd/START_MENU_DONE.png"
+        }, 
+        {
+            "asset": "Source/Resources/Icons/iPhone@2x.png", 
+            "target": "iPhone@2x.png"
+        }, 
+        {
+            "asset": "Source/Resources/Default.png", 
+            "target": "Default.png"
+        }, 
+        {
+            "asset": "Source/Resources/Icons/iPad-old.png", 
+            "target": "iPad-old.png"
+        }, 
+        {
+            "asset": "Frameworks/Kamcord.embeddedframework/Resources/Kamcord.bundle/arrow@2x.png", 
+            "target": "Kamcord.bundle/arrow@2x.png"
+        }, 
+        {
+            "asset": "Frameworks/Kamcord.embeddedframework/Resources/Kamcord.bundle/buffer_bar@2x.png", 
+            "target": "Kamcord.bundle/buffer_bar@2x.png"
+        }, 
+        {
+            "asset": "Frameworks/Kamcord.embeddedframework/Resources/Kamcord.bundle/chevron-left.png", 
+            "target": "Kamcord.bundle/chevron-left.png"
+        }, 
+        {
+            "asset": "Frameworks/Kamcord.embeddedframework/Resources/Kamcord.bundle/chevron-left@2x.png", 
+            "target": "Kamcord.bundle/chevron-left@2x.png"
+        }, 
+        {
+            "asset": "Frameworks/Kamcord.embeddedframework/Resources/Kamcord.bundle/chevron-right.png", 
+            "target": "Kamcord.bundle/chevron-right.png"
+        }, 
+        {
+            "asset": "Frameworks/Kamcord.embeddedframework/Resources/Kamcord.bundle/chevron-right@2x.png", 
+            "target": "Kamcord.bundle/chevron-right@2x.png"
+        }, 
+        {
+            "asset": "Frameworks/Kamcord.embeddedframework/Resources/Kamcord.bundle/clear@2x.png", 
+            "target": "Kamcord.bundle/clear@2x.png"
+        }, 
+        {
+            "asset": "Frameworks/Kamcord.embeddedframework/Resources/Kamcord.bundle/close@2x.png", 
+            "target": "Kamcord.bundle/close@2x.png"
+        }, 
+        {
+            "asset": "Frameworks/Kamcord.embeddedframework/Resources/Kamcord.bundle/email.png", 
+            "target": "Kamcord.bundle/email.png"
+        }, 
+        {
+            "asset": "Frameworks/Kamcord.embeddedframework/Resources/Kamcord.bundle/email@2x.png", 
+            "target": "Kamcord.bundle/email@2x.png"
+        }, 
+        {
+            "asset": "Frameworks/Kamcord.embeddedframework/Resources/Kamcord.bundle/email_red.png", 
+            "target": "Kamcord.bundle/email_red.png"
+        }, 
+        {
+            "asset": "Frameworks/Kamcord.embeddedframework/Resources/Kamcord.bundle/email_red@2x.png", 
+            "target": "Kamcord.bundle/email_red@2x.png"
+        }, 
+        {
+            "asset": "Frameworks/Kamcord.embeddedframework/Resources/Kamcord.bundle/facebook.png", 
+            "target": "Kamcord.bundle/facebook.png"
+        }, 
+        {
+            "asset": "Frameworks/Kamcord.embeddedframework/Resources/Kamcord.bundle/facebook@2x.png", 
+            "target": "Kamcord.bundle/facebook@2x.png"
+        }, 
+        {
+            "asset": "Frameworks/Kamcord.embeddedframework/Resources/Kamcord.bundle/footer-profile-icon.png", 
+            "target": "Kamcord.bundle/footer-profile-icon.png"
+        }, 
+        {
+            "asset": "Frameworks/Kamcord.embeddedframework/Resources/Kamcord.bundle/footer-profile-icon@2x.png", 
+            "target": "Kamcord.bundle/footer-profile-icon@2x.png"
+        }, 
+        {
+            "asset": "Frameworks/Kamcord.embeddedframework/Resources/Kamcord.bundle/footer-share-icon.png", 
+            "target": "Kamcord.bundle/footer-share-icon.png"
+        }, 
+        {
+            "asset": "Frameworks/Kamcord.embeddedframework/Resources/Kamcord.bundle/footer-share-icon@2x.png", 
+            "target": "Kamcord.bundle/footer-share-icon@2x.png"
+        }, 
+        {
+            "asset": "Frameworks/Kamcord.embeddedframework/Resources/Kamcord.bundle/footer-watch-icon.png", 
+            "target": "Kamcord.bundle/footer-watch-icon.png"
+        }, 
+        {
+            "asset": "Frameworks/Kamcord.embeddedframework/Resources/Kamcord.bundle/footer-watch-icon@2x.png", 
+            "target": "Kamcord.bundle/footer-watch-icon@2x.png"
+        }, 
+        {
+            "asset": "Frameworks/Kamcord.embeddedframework/Resources/Kamcord.bundle/full_screen.png", 
+            "target": "Kamcord.bundle/full_screen.png"
+        }, 
+        {
+            "asset": "Frameworks/Kamcord.embeddedframework/Resources/Kamcord.bundle/full_screen@2x.png", 
+            "target": "Kamcord.bundle/full_screen@2x.png"
+        }, 
+        {
+            "asset": "Frameworks/Kamcord.embeddedframework/Resources/Kamcord.bundle/header-back-icon-gray.png", 
+            "target": "Kamcord.bundle/header-back-icon-gray.png"
+        }, 
+        {
+            "asset": "Frameworks/Kamcord.embeddedframework/Resources/Kamcord.bundle/header-back-icon-gray@2x.png", 
+            "target": "Kamcord.bundle/header-back-icon-gray@2x.png"
+        }, 
+        {
+            "asset": "Frameworks/Kamcord.embeddedframework/Resources/Kamcord.bundle/header-back-icon.png", 
+            "target": "Kamcord.bundle/header-back-icon.png"
+        }, 
+        {
+            "asset": "Frameworks/Kamcord.embeddedframework/Resources/Kamcord.bundle/header-back-icon@2x.png", 
+            "target": "Kamcord.bundle/header-back-icon@2x.png"
+        }, 
+        {
+            "asset": "Frameworks/Kamcord.embeddedframework/Resources/Kamcord.bundle/header-close-icon.png", 
+            "target": "Kamcord.bundle/header-close-icon.png"
+        }, 
+        {
+            "asset": "Frameworks/Kamcord.embeddedframework/Resources/Kamcord.bundle/header-close-icon@2x.png", 
+            "target": "Kamcord.bundle/header-close-icon@2x.png"
+        }, 
+        {
+            "asset": "Frameworks/Kamcord.embeddedframework/Resources/Kamcord.bundle/kamcord.png", 
+            "target": "Kamcord.bundle/kamcord.png"
+        }, 
+        {
+            "asset": "Frameworks/Kamcord.embeddedframework/Resources/Kamcord.bundle/kamcord@2x.png", 
+            "target": "Kamcord.bundle/kamcord@2x.png"
+        }, 
+        {
+            "asset": "Frameworks/Kamcord.embeddedframework/Resources/Kamcord.bundle/knob.png", 
+            "target": "Kamcord.bundle/knob.png"
+        }, 
+        {
+            "asset": "Frameworks/Kamcord.embeddedframework/Resources/Kamcord.bundle/knob@2x.png", 
+            "target": "Kamcord.bundle/knob@2x.png"
+        }, 
+        {
+            "asset": "Frameworks/Kamcord.embeddedframework/Resources/Kamcord.bundle/max_bar@2x.png", 
+            "target": "Kamcord.bundle/max_bar@2x.png"
+        }, 
+        {
+            "asset": "Frameworks/Kamcord.embeddedframework/Resources/Kamcord.bundle/microphone.png", 
+            "target": "Kamcord.bundle/microphone.png"
+        }, 
+        {
+            "asset": "Frameworks/Kamcord.embeddedframework/Resources/Kamcord.bundle/microphone@2x.png", 
+            "target": "Kamcord.bundle/microphone@2x.png"
+        }, 
+        {
+            "asset": "Frameworks/Kamcord.embeddedframework/Resources/Kamcord.bundle/microphone_icon.png", 
+            "target": "Kamcord.bundle/microphone_icon.png"
+        }, 
+        {
+            "asset": "Frameworks/Kamcord.embeddedframework/Resources/Kamcord.bundle/microphone_icon@2x.png", 
+            "target": "Kamcord.bundle/microphone_icon@2x.png"
+        }, 
+        {
+            "asset": "Frameworks/Kamcord.embeddedframework/Resources/Kamcord.bundle/microphone_red_line@2x.png", 
+            "target": "Kamcord.bundle/microphone_red_line@2x.png"
+        }, 
+        {
+            "asset": "Frameworks/Kamcord.embeddedframework/Resources/Kamcord.bundle/min_bar@2x.png", 
+            "target": "Kamcord.bundle/min_bar@2x.png"
+        }, 
+        {
+            "asset": "Frameworks/Kamcord.embeddedframework/Resources/Kamcord.bundle/nav_bar@2x.png", 
+            "target": "Kamcord.bundle/nav_bar@2x.png"
+        }, 
+        {
+            "asset": "Frameworks/Kamcord.embeddedframework/Resources/Kamcord.bundle/options-icon.png", 
+            "target": "Kamcord.bundle/options-icon.png"
+        }, 
+        {
+            "asset": "Frameworks/Kamcord.embeddedframework/Resources/Kamcord.bundle/options-icon@2x.png", 
+            "target": "Kamcord.bundle/options-icon@2x.png"
+        }, 
+        {
+            "asset": "Frameworks/Kamcord.embeddedframework/Resources/Kamcord.bundle/password.png", 
+            "target": "Kamcord.bundle/password.png"
+        }, 
+        {
+            "asset": "Frameworks/Kamcord.embeddedframework/Resources/Kamcord.bundle/password@2x.png", 
+            "target": "Kamcord.bundle/password@2x.png"
+        }, 
+        {
+            "asset": "Frameworks/Kamcord.embeddedframework/Resources/Kamcord.bundle/password_red.png", 
+            "target": "Kamcord.bundle/password_red.png"
+        }, 
+        {
+            "asset": "Frameworks/Kamcord.embeddedframework/Resources/Kamcord.bundle/password_red@2x.png", 
+            "target": "Kamcord.bundle/password_red@2x.png"
+        }, 
+        {
+            "asset": "Frameworks/Kamcord.embeddedframework/Resources/Kamcord.bundle/pause.png", 
+            "target": "Kamcord.bundle/pause.png"
+        }, 
+        {
+            "asset": "Frameworks/Kamcord.embeddedframework/Resources/Kamcord.bundle/pause2.png", 
+            "target": "Kamcord.bundle/pause2.png"
+        }, 
+        {
+            "asset": "Frameworks/Kamcord.embeddedframework/Resources/Kamcord.bundle/pause2@2x.png", 
+            "target": "Kamcord.bundle/pause2@2x.png"
+        }, 
+        {
+            "asset": "Frameworks/Kamcord.embeddedframework/Resources/Kamcord.bundle/pause@2x.png", 
+            "target": "Kamcord.bundle/pause@2x.png"
+        }, 
+        {
+            "asset": "Frameworks/Kamcord.embeddedframework/Resources/Kamcord.bundle/play.png", 
+            "target": "Kamcord.bundle/play.png"
+        }, 
+        {
+            "asset": "Frameworks/Kamcord.embeddedframework/Resources/Kamcord.bundle/play2.png", 
+            "target": "Kamcord.bundle/play2.png"
+        }, 
+        {
+            "asset": "Frameworks/Kamcord.embeddedframework/Resources/Kamcord.bundle/play2@2x.png", 
+            "target": "Kamcord.bundle/play2@2x.png"
+        }, 
+        {
+            "asset": "Frameworks/Kamcord.embeddedframework/Resources/Kamcord.bundle/play@2x.png", 
+            "target": "Kamcord.bundle/play@2x.png"
+        }, 
+        {
+            "asset": "Frameworks/Kamcord.embeddedframework/Resources/Kamcord.bundle/player-fullscreen-icon.png", 
+            "target": "Kamcord.bundle/player-fullscreen-icon.png"
+        }, 
+        {
+            "asset": "Frameworks/Kamcord.embeddedframework/Resources/Kamcord.bundle/player-fullscreen-icon@2x.png", 
+            "target": "Kamcord.bundle/player-fullscreen-icon@2x.png"
+        }, 
+        {
+            "asset": "Frameworks/Kamcord.embeddedframework/Resources/Kamcord.bundle/player-pause-icon.png", 
+            "target": "Kamcord.bundle/player-pause-icon.png"
+        }, 
+        {
+            "asset": "Frameworks/Kamcord.embeddedframework/Resources/Kamcord.bundle/player-pause-icon@2x.png", 
+            "target": "Kamcord.bundle/player-pause-icon@2x.png"
+        }, 
+        {
+            "asset": "Frameworks/Kamcord.embeddedframework/Resources/Kamcord.bundle/player-play-icon.png", 
+            "target": "Kamcord.bundle/player-play-icon.png"
+        }, 
+        {
+            "asset": "Frameworks/Kamcord.embeddedframework/Resources/Kamcord.bundle/player-play-icon@2x.png", 
+            "target": "Kamcord.bundle/player-play-icon@2x.png"
+        }, 
+        {
+            "asset": "Frameworks/Kamcord.embeddedframework/Resources/Kamcord.bundle/player-replay-icon.png", 
+            "target": "Kamcord.bundle/player-replay-icon.png"
+        }, 
+        {
+            "asset": "Frameworks/Kamcord.embeddedframework/Resources/Kamcord.bundle/player-replay-icon@2x.png", 
+            "target": "Kamcord.bundle/player-replay-icon@2x.png"
+        }, 
+        {
+            "asset": "Frameworks/Kamcord.embeddedframework/Resources/Kamcord.bundle/player-unfullscreen-icon.png", 
+            "target": "Kamcord.bundle/player-unfullscreen-icon.png"
+        }, 
+        {
+            "asset": "Frameworks/Kamcord.embeddedframework/Resources/Kamcord.bundle/player-unfullscreen-icon@2x.png", 
+            "target": "Kamcord.bundle/player-unfullscreen-icon@2x.png"
+        }, 
+        {
+            "asset": "Frameworks/Kamcord.embeddedframework/Resources/Kamcord.bundle/retry.png", 
+            "target": "Kamcord.bundle/retry.png"
+        }, 
+        {
+            "asset": "Frameworks/Kamcord.embeddedframework/Resources/Kamcord.bundle/retry@2x.png", 
+            "target": "Kamcord.bundle/retry@2x.png"
+        }, 
+        {
+            "asset": "Frameworks/Kamcord.embeddedframework/Resources/Kamcord.bundle/share-body-email-active-icon-small.png", 
+            "target": "Kamcord.bundle/share-body-email-active-icon-small.png"
+        }, 
+        {
+            "asset": "Frameworks/Kamcord.embeddedframework/Resources/Kamcord.bundle/share-body-email-active-icon-small@2x.png", 
+            "target": "Kamcord.bundle/share-body-email-active-icon-small@2x.png"
+        }, 
+        {
+            "asset": "Frameworks/Kamcord.embeddedframework/Resources/Kamcord.bundle/share-body-email-active-icon.png", 
+            "target": "Kamcord.bundle/share-body-email-active-icon.png"
+        }, 
+        {
+            "asset": "Frameworks/Kamcord.embeddedframework/Resources/Kamcord.bundle/share-body-email-active-icon@2x.png", 
+            "target": "Kamcord.bundle/share-body-email-active-icon@2x.png"
+        }, 
+        {
+            "asset": "Frameworks/Kamcord.embeddedframework/Resources/Kamcord.bundle/share-body-email-icon-small.png", 
+            "target": "Kamcord.bundle/share-body-email-icon-small.png"
+        }, 
+        {
+            "asset": "Frameworks/Kamcord.embeddedframework/Resources/Kamcord.bundle/share-body-email-icon-small@2x.png", 
+            "target": "Kamcord.bundle/share-body-email-icon-small@2x.png"
+        }, 
+        {
+            "asset": "Frameworks/Kamcord.embeddedframework/Resources/Kamcord.bundle/share-body-email-icon.png", 
+            "target": "Kamcord.bundle/share-body-email-icon.png"
+        }, 
+        {
+            "asset": "Frameworks/Kamcord.embeddedframework/Resources/Kamcord.bundle/share-body-email-icon@2x.png", 
+            "target": "Kamcord.bundle/share-body-email-icon@2x.png"
+        }, 
+        {
+            "asset": "Frameworks/Kamcord.embeddedframework/Resources/Kamcord.bundle/share-body-fb-active-icon-small.png", 
+            "target": "Kamcord.bundle/share-body-fb-active-icon-small.png"
+        }, 
+        {
+            "asset": "Frameworks/Kamcord.embeddedframework/Resources/Kamcord.bundle/share-body-fb-active-icon-small@2x.png", 
+            "target": "Kamcord.bundle/share-body-fb-active-icon-small@2x.png"
+        }, 
+        {
+            "asset": "Frameworks/Kamcord.embeddedframework/Resources/Kamcord.bundle/share-body-fb-active-icon.png", 
+            "target": "Kamcord.bundle/share-body-fb-active-icon.png"
+        }, 
+        {
+            "asset": "Frameworks/Kamcord.embeddedframework/Resources/Kamcord.bundle/share-body-fb-active-icon@2x.png", 
+            "target": "Kamcord.bundle/share-body-fb-active-icon@2x.png"
+        }, 
+        {
+            "asset": "Frameworks/Kamcord.embeddedframework/Resources/Kamcord.bundle/share-body-fb-icon-small.png", 
+            "target": "Kamcord.bundle/share-body-fb-icon-small.png"
+        }, 
+        {
+            "asset": "Frameworks/Kamcord.embeddedframework/Resources/Kamcord.bundle/share-body-fb-icon-small@2x.png", 
+            "target": "Kamcord.bundle/share-body-fb-icon-small@2x.png"
+        }, 
+        {
+            "asset": "Frameworks/Kamcord.embeddedframework/Resources/Kamcord.bundle/share-body-fb-icon.png", 
+            "target": "Kamcord.bundle/share-body-fb-icon.png"
+        }, 
+        {
+            "asset": "Frameworks/Kamcord.embeddedframework/Resources/Kamcord.bundle/share-body-fb-icon@2x.png", 
+            "target": "Kamcord.bundle/share-body-fb-icon@2x.png"
+        }, 
+        {
+            "asset": "Frameworks/Kamcord.embeddedframework/Resources/Kamcord.bundle/share-body-tw-active-icon-small.png", 
+            "target": "Kamcord.bundle/share-body-tw-active-icon-small.png"
+        }, 
+        {
+            "asset": "Frameworks/Kamcord.embeddedframework/Resources/Kamcord.bundle/share-body-tw-active-icon-small@2x.png", 
+            "target": "Kamcord.bundle/share-body-tw-active-icon-small@2x.png"
+        }, 
+        {
+            "asset": "Frameworks/Kamcord.embeddedframework/Resources/Kamcord.bundle/share-body-tw-active-icon.png", 
+            "target": "Kamcord.bundle/share-body-tw-active-icon.png"
+        }, 
+        {
+            "asset": "Frameworks/Kamcord.embeddedframework/Resources/Kamcord.bundle/share-body-tw-active-icon@2x.png", 
+            "target": "Kamcord.bundle/share-body-tw-active-icon@2x.png"
+        }, 
+        {
+            "asset": "Frameworks/Kamcord.embeddedframework/Resources/Kamcord.bundle/share-body-tw-icon-small.png", 
+            "target": "Kamcord.bundle/share-body-tw-icon-small.png"
+        }, 
+        {
+            "asset": "Frameworks/Kamcord.embeddedframework/Resources/Kamcord.bundle/share-body-tw-icon-small@2x.png", 
+            "target": "Kamcord.bundle/share-body-tw-icon-small@2x.png"
+        }, 
+        {
+            "asset": "Frameworks/Kamcord.embeddedframework/Resources/Kamcord.bundle/share-body-tw-icon.png", 
+            "target": "Kamcord.bundle/share-body-tw-icon.png"
+        }, 
+        {
+            "asset": "Frameworks/Kamcord.embeddedframework/Resources/Kamcord.bundle/share-body-tw-icon@2x.png", 
+            "target": "Kamcord.bundle/share-body-tw-icon@2x.png"
+        }, 
+        {
+            "asset": "Frameworks/Kamcord.embeddedframework/Resources/Kamcord.bundle/share-body-yt-active-icon-small.png", 
+            "target": "Kamcord.bundle/share-body-yt-active-icon-small.png"
+        }, 
+        {
+            "asset": "Frameworks/Kamcord.embeddedframework/Resources/Kamcord.bundle/share-body-yt-active-icon-small@2x.png", 
+            "target": "Kamcord.bundle/share-body-yt-active-icon-small@2x.png"
+        }, 
+        {
+            "asset": "Frameworks/Kamcord.embeddedframework/Resources/Kamcord.bundle/share-body-yt-active-icon.png", 
+            "target": "Kamcord.bundle/share-body-yt-active-icon.png"
+        }, 
+        {
+            "asset": "Frameworks/Kamcord.embeddedframework/Resources/Kamcord.bundle/share-body-yt-active-icon@2x.png", 
+            "target": "Kamcord.bundle/share-body-yt-active-icon@2x.png"
+        }, 
+        {
+            "asset": "Frameworks/Kamcord.embeddedframework/Resources/Kamcord.bundle/share-body-yt-icon-small.png", 
+            "target": "Kamcord.bundle/share-body-yt-icon-small.png"
+        }, 
+        {
+            "asset": "Frameworks/Kamcord.embeddedframework/Resources/Kamcord.bundle/share-body-yt-icon-small@2x.png", 
+            "target": "Kamcord.bundle/share-body-yt-icon-small@2x.png"
+        }, 
+        {
+            "asset": "Frameworks/Kamcord.embeddedframework/Resources/Kamcord.bundle/share-body-yt-icon.png", 
+            "target": "Kamcord.bundle/share-body-yt-icon.png"
+        }, 
+        {
+            "asset": "Frameworks/Kamcord.embeddedframework/Resources/Kamcord.bundle/share-body-yt-icon@2x.png", 
+            "target": "Kamcord.bundle/share-body-yt-icon@2x.png"
+        }, 
+        {
+            "asset": "Frameworks/Kamcord.embeddedframework/Resources/Kamcord.bundle/share-play-button-small.png", 
+            "target": "Kamcord.bundle/share-play-button-small.png"
+        }, 
+        {
+            "asset": "Frameworks/Kamcord.embeddedframework/Resources/Kamcord.bundle/share-play-button-small@2x.png", 
+            "target": "Kamcord.bundle/share-play-button-small@2x.png"
+        }, 
+        {
+            "asset": "Frameworks/Kamcord.embeddedframework/Resources/Kamcord.bundle/share-play-button.png", 
+            "target": "Kamcord.bundle/share-play-button.png"
+        }, 
+        {
+            "asset": "Frameworks/Kamcord.embeddedframework/Resources/Kamcord.bundle/share-play-button@2x.png", 
+            "target": "Kamcord.bundle/share-play-button@2x.png"
+        }, 
+        {
+            "asset": "Frameworks/Kamcord.embeddedframework/Resources/Kamcord.bundle/slider_thumb@2x.png", 
+            "target": "Kamcord.bundle/slider_thumb@2x.png"
+        }, 
+        {
+            "asset": "Frameworks/Kamcord.embeddedframework/Resources/Kamcord.bundle/slider_track_green@2x.png", 
+            "target": "Kamcord.bundle/slider_track_green@2x.png"
+        }, 
+        {
+            "asset": "Frameworks/Kamcord.embeddedframework/Resources/Kamcord.bundle/tab_bar_ipad@2x.png", 
+            "target": "Kamcord.bundle/tab_bar_ipad@2x.png"
+        }, 
+        {
+            "asset": "Frameworks/Kamcord.embeddedframework/Resources/Kamcord.bundle/tab_bar_iphone@2x.png", 
+            "target": "Kamcord.bundle/tab_bar_iphone@2x.png"
+        }, 
+        {
+            "asset": "Frameworks/Kamcord.embeddedframework/Resources/Kamcord.bundle/twitter.png", 
+            "target": "Kamcord.bundle/twitter.png"
+        }, 
+        {
+            "asset": "Frameworks/Kamcord.embeddedframework/Resources/Kamcord.bundle/twitter@2x.png", 
+            "target": "Kamcord.bundle/twitter@2x.png"
+        }, 
+        {
+            "asset": "Frameworks/Kamcord.embeddedframework/Resources/Kamcord.bundle/un_fullscreen.png", 
+            "target": "Kamcord.bundle/un_fullscreen.png"
+        }, 
+        {
+            "asset": "Frameworks/Kamcord.embeddedframework/Resources/Kamcord.bundle/un_fullscreen@2x.png", 
+            "target": "Kamcord.bundle/un_fullscreen@2x.png"
+        }, 
+        {
+            "asset": "Frameworks/Kamcord.embeddedframework/Resources/Kamcord.bundle/username.png", 
+            "target": "Kamcord.bundle/username.png"
+        }, 
+        {
+            "asset": "Frameworks/Kamcord.embeddedframework/Resources/Kamcord.bundle/username@2x.png", 
+            "target": "Kamcord.bundle/username@2x.png"
+        }, 
+        {
+            "asset": "Frameworks/Kamcord.embeddedframework/Resources/Kamcord.bundle/username_green.png", 
+            "target": "Kamcord.bundle/username_green.png"
+        }, 
+        {
+            "asset": "Frameworks/Kamcord.embeddedframework/Resources/Kamcord.bundle/username_green@2x.png", 
+            "target": "Kamcord.bundle/username_green@2x.png"
+        }, 
+        {
+            "asset": "Frameworks/Kamcord.embeddedframework/Resources/Kamcord.bundle/username_red.png", 
+            "target": "Kamcord.bundle/username_red.png"
+        }, 
+        {
+            "asset": "Frameworks/Kamcord.embeddedframework/Resources/Kamcord.bundle/username_red@2x.png", 
+            "target": "Kamcord.bundle/username_red@2x.png"
+        }, 
+        {
+            "asset": "Frameworks/Kamcord.embeddedframework/Resources/Kamcord.bundle/video_controls_background@2x.png", 
+            "target": "Kamcord.bundle/video_controls_background@2x.png"
+        }, 
+        {
+            "asset": "Frameworks/Kamcord.embeddedframework/Resources/Kamcord.bundle/youtube.png", 
+            "target": "Kamcord.bundle/youtube.png"
+        }, 
+        {
+            "asset": "Frameworks/Kamcord.embeddedframework/Resources/Kamcord.bundle/youtube@2x.png", 
+            "target": "Kamcord.bundle/youtube@2x.png"
+        }, 
+        {
+            "asset": "Frameworks/Kamcord.embeddedframework/Resources/Kamcord.bundle/fonts/ProximaNova-Light.otf", 
+            "target": "Kamcord.bundle/fonts/ProximaNova-Light.otf"
+        }, 
+        {
+            "asset": "Frameworks/Kamcord.embeddedframework/Resources/Kamcord.bundle/fonts/ProximaNova-Regular.otf", 
+            "target": "Kamcord.bundle/fonts/ProximaNova-Regular.otf"
+        }, 
+        {
+            "asset": "Frameworks/Kamcord.embeddedframework/Resources/Kamcord.bundle/fonts/ProximaNova-Semibold.otf", 
+            "target": "Kamcord.bundle/fonts/ProximaNova-Semibold.otf"
+        }, 
+        {
+            "asset": "Frameworks/Kamcord.embeddedframework/Resources/Kamcord.bundle/localization/ar.lproj/Localizable.strings", 
+            "target": "Kamcord.bundle/localization/ar.lproj/Localizable.strings"
+        }, 
+        {
+            "asset": "Frameworks/Kamcord.embeddedframework/Resources/Kamcord.bundle/localization/de.lproj/Localizable.strings", 
+            "target": "Kamcord.bundle/localization/de.lproj/Localizable.strings"
+        }, 
+        {
+            "asset": "Frameworks/Kamcord.embeddedframework/Resources/Kamcord.bundle/localization/es.lproj/Localizable.strings", 
+            "target": "Kamcord.bundle/localization/es.lproj/Localizable.strings"
+        }, 
+        {
+            "asset": "Frameworks/Kamcord.embeddedframework/Resources/Kamcord.bundle/localization/fr.lproj/Localizable.strings", 
+            "target": "Kamcord.bundle/localization/fr.lproj/Localizable.strings"
+        }, 
+        {
+            "asset": "Frameworks/Kamcord.embeddedframework/Resources/Kamcord.bundle/localization/it.lproj/Localizable.strings", 
+            "target": "Kamcord.bundle/localization/it.lproj/Localizable.strings"
+        }, 
+        {
+            "asset": "Frameworks/Kamcord.embeddedframework/Resources/Kamcord.bundle/localization/ja.lproj/Localizable.strings", 
+            "target": "Kamcord.bundle/localization/ja.lproj/Localizable.strings"
+        }, 
+        {
+            "asset": "Frameworks/Kamcord.embeddedframework/Resources/Kamcord.bundle/localization/ko.lproj/Localizable.strings", 
+            "target": "Kamcord.bundle/localization/ko.lproj/Localizable.strings"
+        }, 
+        {
+            "asset": "Frameworks/Kamcord.embeddedframework/Resources/Kamcord.bundle/localization/pt-PT.lproj/Localizable.strings", 
+            "target": "Kamcord.bundle/localization/pt-PT.lproj/Localizable.strings"
+        }, 
+        {
+            "asset": "Frameworks/Kamcord.embeddedframework/Resources/Kamcord.bundle/localization/pt.lproj/Localizable.strings", 
+            "target": "Kamcord.bundle/localization/pt.lproj/Localizable.strings"
+        }, 
+        {
+            "asset": "Frameworks/Kamcord.embeddedframework/Resources/Kamcord.bundle/localization/ru.lproj/Localizable.strings", 
+            "target": "Kamcord.bundle/localization/ru.lproj/Localizable.strings"
+        }, 
+        {
+            "asset": "Frameworks/Kamcord.embeddedframework/Resources/Kamcord.bundle/localization/tr.lproj/Localizable.strings", 
+            "target": "Kamcord.bundle/localization/tr.lproj/Localizable.strings"
+        }, 
+        {
+            "asset": "Frameworks/Kamcord.embeddedframework/Resources/Kamcord.bundle/localization/zh-Hans.lproj/Localizable.strings", 
+            "target": "Kamcord.bundle/localization/zh-Hans.lproj/Localizable.strings"
+        }, 
+        {
+            "asset": "Frameworks/Kamcord.embeddedframework/Resources/Kamcord.bundle/localization/zh-Hant.lproj/Localizable.strings", 
+            "target": "Kamcord.bundle/localization/zh-Hant.lproj/Localizable.strings"
+        }, 
+        {
+            "asset": "Frameworks/Kamcord.embeddedframework/Resources/Kamcord.bundle/trimming/slider.png", 
+            "target": "Kamcord.bundle/trimming/slider.png"
+        }
+    ], 
+    "config": {
+        "APPLICATION_FULL_NAME": "PivotVividGGJ14", 
+        "APPLICATION_IDENTIFIER": "com.apportable.PivotVividGGJ14", 
+        "APPLICATION_NAME": "PivotVividGGJ14", 
+        "FEATURES": [
+            "opengles2"
+        ], 
+        "ICU_CONFIG": "normal", 
+        "LONG_VERSION": "1.0", 
+        "TEMPLATE_VALUES": {
+            "EXECUTABLE_NAME": "PivotVividGGJ14", 
+            "PRODUCT_NAME": "PivotVividGGJ14"
+        }
+    }, 
+    "defines": {
+        "NDEBUG": 1, 
+        "NS_BLOCK_ASSERTIONS": 1, 
+        "__IPHONE_OS_VERSION_MIN_REQUIRED": 70000
+    }, 
+    "deps": [
+        "UIKit", 
+        "Twitter", 
+        "SystemConfiguration", 
+        "Security", 
+        "QuartzCore", 
+        "MessageUI", 
+        "MediaPlayer", 
+        "CoreVideo", 
+        "CoreMedia", 
+        "AVFoundation", 
+        "AudioToolbox", 
+        "GLKit", 
+        "OpenGLES", 
+        "OpenAL", 
+        "Kamcord", 
+        "UIKit", 
+        "Foundation", 
+        "CoreGraphics", 
+        "CoreText"
+    ], 
+    "flags": [
+        "-fobjc-arc", 
+        "-fasm-blocks", 
+        {
+            "flag": "-std=gnu99", 
+            "not_type": "c++"
+        }, 
+        {
+            "flag": "-fgnu-keywords", 
+            "not_type": "c++"
+        }, 
+        "-fno-asm", 
+        "-fpascal-strings", 
+        "-Wno-deprecated-declarations", 
+        "-Wreturn-type", 
+        "-Wswitch", 
+        "-Wparentheses", 
+        "-Wformat", 
+        "-Wunused-value", 
+        "-Wunused-variable", 
+        {
+            "flag": "-Winvalid-offsetof", 
+            "type": "c++"
+        }, 
+        {
+            "flag": "-Wprotocol", 
+            "type": "objc"
+        }
+    ], 
+    "header_paths": [
+        {
+            "header_path": "PivotVividGGJ14-generated-files.hmap", 
+            "hmap": {}, 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "PivotVividGGJ14-own-target-headers.hmap", 
+            "hmap": {}, 
+            "type": "I"
+        }, 
+        {
+            "header_path": "PivotVividGGJ14-all-target-headers.hmap", 
+            "hmap": {}, 
+            "type": "I"
+        }, 
+        {
+            "header_path": "PivotVividGGJ14-project-headers.hmap", 
+            "hmap": {
+                "AngryEnemy.h": {
+                    "key": "AngryEnemy.h", 
+                    "prefix": "Source/", 
+                    "suffix": "AngryEnemy.h"
+                }, 
+                "AppDelegate.h": {
+                    "key": "AppDelegate.h", 
+                    "prefix": "Source/", 
+                    "suffix": "AppDelegate.h"
+                }, 
+                "BasicEnemy.h": {
+                    "key": "BasicEnemy.h", 
+                    "prefix": "Source/", 
+                    "suffix": "BasicEnemy.h"
+                }, 
+                "Block.h": {
+                    "key": "Block.h", 
+                    "prefix": "Source/", 
+                    "suffix": "Block.h"
+                }, 
+                "CCActionFollowGGJ.h": {
+                    "key": "CCActionFollowGGJ.h", 
+                    "prefix": "Source/", 
+                    "suffix": "CCActionFollowGGJ.h"
+                }, 
+                "CCAnimatedSprite.h": {
+                    "key": "CCAnimatedSprite.h", 
+                    "prefix": "Source/", 
+                    "suffix": "CCAnimatedSprite.h"
+                }, 
+                "DisplayInstruction.h": {
+                    "key": "DisplayInstruction.h", 
+                    "prefix": "Source/Instruction/", 
+                    "suffix": "DisplayInstruction.h"
+                }, 
+                "Enemy.h": {
+                    "key": "Enemy.h", 
+                    "prefix": "Source/", 
+                    "suffix": "Enemy.h"
+                }, 
+                "GameEndLayer.h": {
+                    "key": "GameEndLayer.h", 
+                    "prefix": "Source/UIElements/", 
+                    "suffix": "GameEndLayer.h"
+                }, 
+                "GameState.h": {
+                    "key": "GameState.h", 
+                    "prefix": "Source/", 
+                    "suffix": "GameState.h"
+                }, 
+                "Gameplay.h": {
+                    "key": "Gameplay.h", 
+                    "prefix": "Source/", 
+                    "suffix": "Gameplay.h"
+                }, 
+                "GoalPosition.h": {
+                    "key": "GoalPosition.h", 
+                    "prefix": "Source/", 
+                    "suffix": "GoalPosition.h"
+                }, 
+                "GroundBlock.h": {
+                    "key": "GroundBlock.h", 
+                    "prefix": "Source/", 
+                    "suffix": "GroundBlock.h"
+                }, 
+                "GroundBlock64.h": {
+                    "key": "GroundBlock64.h", 
+                    "prefix": "Source/", 
+                    "suffix": "GroundBlock64.h"
+                }, 
+                "GroundBlockEight.h": {
+                    "key": "GroundBlockEight.h", 
+                    "prefix": "Source/", 
+                    "suffix": "GroundBlockEight.h"
+                }, 
+                "HappyEnemy.h": {
+                    "key": "HappyEnemy.h", 
+                    "prefix": "Source/", 
+                    "suffix": "HappyEnemy.h"
+                }, 
+                "Hero.h": {
+                    "key": "Hero.h", 
+                    "prefix": "Source/", 
+                    "suffix": "Hero.h"
+                }, 
+                "Instruction.h": {
+                    "key": "Instruction.h", 
+                    "prefix": "Source/Instruction/", 
+                    "suffix": "Instruction.h"
+                }, 
+                "Level.h": {
+                    "key": "Level.h", 
+                    "prefix": "Source/", 
+                    "suffix": "Level.h"
+                }, 
+                "LevelBatchNode.h": {
+                    "key": "LevelBatchNode.h", 
+                    "prefix": "Source/", 
+                    "suffix": "LevelBatchNode.h"
+                }, 
+                "LevelDetails.h": {
+                    "key": "LevelDetails.h", 
+                    "prefix": "Source/", 
+                    "suffix": "LevelDetails.h"
+                }, 
+                "LevelTile.h": {
+                    "key": "LevelTile.h", 
+                    "prefix": "Source/UIElements/", 
+                    "suffix": "LevelTile.h"
+                }, 
+                "MainScene.h": {
+                    "key": "MainScene.h", 
+                    "prefix": "Source/", 
+                    "suffix": "MainScene.h"
+                }, 
+                "Mask.h": {
+                    "key": "Mask.h", 
+                    "prefix": "./", 
+                    "suffix": "Mask.h"
+                }, 
+                "Mood.h": {
+                    "key": "Mood.h", 
+                    "prefix": "Source/Moods/", 
+                    "suffix": "Mood.h"
+                }, 
+                "Prefix.pch": {
+                    "key": "Prefix.pch", 
+                    "prefix": "Source/", 
+                    "suffix": "Prefix.pch"
+                }, 
+                "SadEnemy.h": {
+                    "key": "SadEnemy.h", 
+                    "prefix": "Source/", 
+                    "suffix": "SadEnemy.h"
+                }, 
+                "ScaredEnemy.h": {
+                    "key": "ScaredEnemy.h", 
+                    "prefix": "Source/", 
+                    "suffix": "ScaredEnemy.h"
+                }, 
+                "Startscreen.h": {
+                    "key": "Startscreen.h", 
+                    "prefix": "./", 
+                    "suffix": "Startscreen.h"
+                }, 
+                "TutorialFragment.h": {
+                    "key": "TutorialFragment.h", 
+                    "prefix": "Source/Tutorial/", 
+                    "suffix": "TutorialFragment.h"
+                }, 
+                "TutorialFragment1_0.h": {
+                    "key": "TutorialFragment1_0.h", 
+                    "prefix": "Source/Tutorial/Tutorial1/", 
+                    "suffix": "TutorialFragment1_0.h"
+                }, 
+                "TutorialFragment1_1.h": {
+                    "key": "TutorialFragment1_1.h", 
+                    "prefix": "Source/Tutorial/Tutorial1/", 
+                    "suffix": "TutorialFragment1_1.h"
+                }, 
+                "TutorialFragment1_2.h": {
+                    "key": "TutorialFragment1_2.h", 
+                    "prefix": "Source/Tutorial/Tutorial1/", 
+                    "suffix": "TutorialFragment1_2.h"
+                }, 
+                "TutorialFragment1_3.h": {
+                    "key": "TutorialFragment1_3.h", 
+                    "prefix": "Source/Tutorial/Tutorial1/", 
+                    "suffix": "TutorialFragment1_3.h"
+                }, 
+                "TutorialFragment1_4.h": {
+                    "key": "TutorialFragment1_4.h", 
+                    "prefix": "Source/Tutorial/Tutorial1/", 
+                    "suffix": "TutorialFragment1_4.h"
+                }, 
+                "TutorialGameplay.h": {
+                    "key": "TutorialGameplay.h", 
+                    "prefix": "Source/", 
+                    "suffix": "TutorialGameplay.h"
+                }, 
+                "TutorialInstructionPopup.h": {
+                    "key": "TutorialInstructionPopup.h", 
+                    "prefix": "Source/", 
+                    "suffix": "TutorialInstructionPopup.h"
+                }, 
+                "UIUtils.h": {
+                    "key": "UIUtils.h", 
+                    "prefix": "Source/UIUtils/", 
+                    "suffix": "UIUtils.h"
+                }
+            }, 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "Source/libs/cocos2d-iphone/external/kazmath/include", 
+            "type": "I"
+        }, 
+        {
+            "header_path": "Source/libs/cocos2d-iphone/cocos2d", 
+            "type": "I"
+        }, 
+        {
+            "header_path": "Source/libs/cocos2d-iphone/cocos2d/Platforms", 
+            "type": "I"
+        }, 
+        {
+            "header_path": "Source/libs/cocos2d-iphone/cocos2d/Support", 
+            "type": "I"
+        }, 
+        {
+            "header_path": "Source/libs/cocos2d-iphone/cocos2d/Platforms/iOS", 
+            "type": "I"
+        }, 
+        {
+            "header_path": "Source/libs/cocos2d-iphone/cocos2d/Platforms/Mac", 
+            "type": "I"
+        }, 
+        {
+            "header_path": "Source/libs/cocos2d-iphone/external/Chipmunk/objectivec/include", 
+            "type": "I"
+        }, 
+        {
+            "header_path": "Source/libs/cocos2d-iphone/external/Chipmunk/include", 
+            "type": "I"
+        }, 
+        {
+            "header_path": "Source/libs/cocos2d-iphone/cocos2d-ui", 
+            "type": "I"
+        }, 
+        {
+            "header_path": "Source/libs/cocos2d-iphone/cocos2d-ui/CCBReader", 
+            "type": "I"
+        }, 
+        {
+            "header_path": "Source/libs/cocos2d-iphone/external/ObjectAL", 
+            "type": "I"
+        }, 
+        {
+            "header_path": "Source/libs/cocos2d-iphone/external/ObjectAL/Actions", 
+            "type": "I"
+        }, 
+        {
+            "header_path": "Source/libs/cocos2d-iphone/external/ObjectAL/AudioTrack", 
+            "type": "I"
+        }, 
+        {
+            "header_path": "Source/libs/cocos2d-iphone/external/ObjectAL/OpenAL", 
+            "type": "I"
+        }, 
+        {
+            "header_path": "Source/libs/cocos2d-iphone/external/ObjectAL/Session", 
+            "type": "I"
+        }, 
+        {
+            "header_path": "Source/libs/cocos2d-iphone/external/ObjectAL/Support", 
+            "type": "I"
+        }
+    ], 
+    "infoplists": [
+        "./Source/Resources/Info.plist"
+    ], 
+    "java_libs": [], 
+    "java_res_dirs": [], 
+    "java_sourcepaths": [], 
+    "java_sources": [], 
+    "libs": [
+        "z", 
+        "sqlite3"
+    ], 
+    "link_flags": [], 
+    "modules": [
+        {
+            "build_cwd": "Source/libs/cocos2d-iphone", 
+            "project": "Chipmunk7-ios", 
+            "project_config": "Release", 
+            "target": "ObjectiveChipmunk-iPhone"
+        }, 
+        {
+            "build_cwd": "Source/libs/cocos2d-iphone", 
+            "project": "cocos2d-ios", 
+            "project_config": "Release", 
+            "target": "cocos2d"
+        }
+    ], 
+    "pchs": [
+        "./Source/Prefix.pch"
+    ], 
+    "sources": [
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Mask.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Source/AngryEnemy.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Source/AppDelegate.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Source/BasicEnemy.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Source/Block.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Source/CCActionFollowGGJ.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Source/CCAnimatedSprite.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Source/Enemy.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Source/GameState.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Source/Gameplay.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Source/GoalPosition.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Source/GroundBlock.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Source/GroundBlock64.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Source/GroundBlockEight.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Source/HappyEnemy.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Source/Hero.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Source/Instruction/DisplayInstruction.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Source/Instruction/Instruction.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Source/Level.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Source/LevelBatchNode.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Source/LevelDetails.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Source/MainScene.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Source/Moods/Mood.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Source/SadEnemy.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Source/ScaredEnemy.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Source/Tutorial/Tutorial1/TutorialFragment1_0.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Source/Tutorial/Tutorial1/TutorialFragment1_1.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Source/Tutorial/Tutorial1/TutorialFragment1_2.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Source/Tutorial/Tutorial1/TutorialFragment1_3.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Source/Tutorial/Tutorial1/TutorialFragment1_4.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Source/Tutorial/TutorialFragment.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Source/TutorialGameplay.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Source/TutorialInstructionPopup.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Source/UIElements/GameEndLayer.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Source/UIElements/LevelTile.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Source/UIUtils/UIUtils.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Source/main.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Startscreen.m"
+        }
+    ], 
+    "type": "app", 
+    "version": "1", 
+    "xcode_project": "PivotVividGGJ14.xcodeproj"
+}
